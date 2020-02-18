@@ -3,7 +3,7 @@ package coresearch.cvurl.rx;
 import coresearch.cvurl.io.mapper.BodyType;
 import coresearch.cvurl.io.model.Response;
 import coresearch.cvurl.io.request.Request;
-import io.reactivex.Single;
+import io.reactivex.rxjava3.core.Single;
 
 import java.io.InputStream;
 import java.net.http.HttpResponse;
