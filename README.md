@@ -6,7 +6,7 @@
 **CVurl-RX** is written in java 11 and can be used with any jdk11 and higher.
 
 ## Dependencies
-CVurl-RX includes following dependencies:
+In order to use CVurl-RX you have to include following dependencies:
 ```xml
         <!--(1)-->
        <dependency>
